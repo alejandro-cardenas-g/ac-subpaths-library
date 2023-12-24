@@ -1,0 +1,10 @@
+.red-button{
+    border: unset;
+    padding: 0.3rem 1rem;
+    cursor: pointer;
+    background-color: red;
+}
+
+.red-button:hover{
+  background-color: #d71515;
+}

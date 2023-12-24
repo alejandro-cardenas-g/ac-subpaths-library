@@ -1,0 +1,9 @@
+.active-button{
+  border: unset;
+  padding: 0.3rem 1rem;
+  cursor: pointer;
+}
+
+.active-button:hover{
+  background-color: #c1c1c1;
+}
